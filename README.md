@@ -3,7 +3,7 @@
 This is the firmware from the K4815 Pattern Generator by Kilpatrick Audio.
 The K4816 Pattern Generator for Buchla is also included and can be built
 by defining BUCHLA at compile time. This project is build with the SourceBoost
-BoostC C compiler.
+BoostC C compiler. This code runs on the PIC18F4520 microcontroller.
 
 This code is released into the public domain with the following limitations:
 
